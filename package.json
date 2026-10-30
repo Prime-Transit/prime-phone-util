@@ -1,0 +1,11 @@
+{
+  "name": "prime-phone-util",
+  "version": "1.0.0",
+  "description": "E.164 phone normalization — strict input, canonical output. Extracted from PRIME, the AI fleet management platform.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "repository": "https://github.com/Prime-Transit/prime-phone-util",
+  "homepage": "https://primetransit.com",
+  "license": "MIT",
+  "dependencies": { "libphonenumber-js": "^1.12.0" }
+}
